@@ -20,6 +20,8 @@ Full Stack Application for authenticating and registering users, whos identity i
 
 ## Usage
 
+- Please make sure you have the latest stale node version installed.
+
 ### Backend
 
 1. Run `cd backend `
