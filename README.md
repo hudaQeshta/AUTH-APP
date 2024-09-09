@@ -45,7 +45,7 @@ or
 
 ### Frontend
 
-1. Run `cd backend `
+1. Run `cd fontend `
 2. Copy .env.example file in the root and modify the variables.
 
 Then:
